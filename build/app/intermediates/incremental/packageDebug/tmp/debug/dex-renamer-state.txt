@@ -1,0 +1,4 @@
+#Tue Jun 23 15:42:06 WIB 2020
+base.0=/home/nasri/Documents/Project/listview/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
